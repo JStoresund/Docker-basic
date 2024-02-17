@@ -7,4 +7,4 @@
 5. Run ```docker build -t <name of docker image> .``` in terminal (in same directory)
 6. Run ```docker run <arguments...> <name of docker image>```
 
-#### If docker image/container already exists in docker desktop, 7 is necessary.
+#### If docker image/container already exists in docker desktop, only step 7 is necessary.
